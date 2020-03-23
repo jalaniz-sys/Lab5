@@ -7,6 +7,26 @@ body {
   	width: 70%;
   	padding: 40px;
 }
+table,th,td{
+	border-collapse: collapse;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+table{
+	width:80%;
+
+}
+th{
+	font-family: 'Orbitron', sans-serif;
+	height:80px;
+}
+td{
+	border-bottom: 1px solid #ddd;
+	text-align: center;
+
+}
+
 
 h1  {
 	text-align:center;
