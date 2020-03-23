@@ -44,11 +44,11 @@ img.sizing
 	margin-right: auto;
 	margin-left: auto;
 }
-img.invisible
+img.invis
 {
-	height:160px;
-	width:80%;
-	margin-right: auto;
-	margin-left: auto;
-	opacity: 0;
+  height: 160px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0;
 }
