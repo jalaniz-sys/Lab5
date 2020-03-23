@@ -27,12 +27,14 @@ td{
 
 }
 
+tr.row:hover{
+	background-color: #6495ED;
+}
 
 h1  {
 	text-align:center;
   	border:10px inset#483D8B;
   	font-family: 'Orbitron', sans-serif;
-
 
 }
 img.sizing
