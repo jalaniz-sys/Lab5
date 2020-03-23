@@ -35,3 +35,18 @@ h1  {
 
 
 }
+img.sizing
+{
+	height:160px;
+	width:80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+img.invis
+{
+	height:160px;
+	width:80%;
+	margin-right: auto;
+	margin-left: auto;
+	opacity:0;
+}
